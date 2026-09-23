@@ -1,0 +1,35 @@
+COURSE ANALYTICS REPORT
+Valid: 6 | Rejected: 0 | Threshold: 70.0%
+Class mean: 82.08% | Passing: 5/6 (83.3%)
+
+LEADERBOARD
+1. Cam (S103): 97.50%
+2. Fay (S106): 90.00%
+3. Ana (S101): 87.50%
+4. Eli (S105): 85.00%
+5. Bo (S102): 70.00%
+6. Dee (S104): 62.50%
+
+TAGS
+Union: enumerate, exceptions, files, functions, generators, lambda, python, sets, vectors, zip
+enumerate: 1
+exceptions: 2
+files: 2
+functions: 1
+generators: 1
+lambda: 1
+python: 3
+sets: 2
+vectors: 1
+zip: 2
+
+STUDENT DETAIL
+S103 | Cam | (10, 9, 20) | 97.50% | PASS | tags=['generators', 'python', 'zip'] | diff=(2.5, 0.83, 2.83) | dot=491.83
+S106 | Fay | (7, 10, 19) | 90.00% | PASS | tags=['enumerate', 'lambda', 'zip'] | diff=(-0.5, 1.83, 1.83) | dot=460.33
+S101 | Ana | (8, 9, 18) | 87.50% | PASS | tags=['files', 'python', 'sets'] | diff=(0.5, 0.83, 0.83) | dot=442.50
+S105 | Eli | (9, 8, 17) | 85.00% | PASS | tags=['python', 'sets', 'vectors'] | diff=(1.5, -0.17, -0.17) | dot=424.67
+S102 | Bo | (6, 7, 15) | 70.00% | PASS | tags=['exceptions', 'functions'] | diff=(-1.5, -1.17, -2.17) | dot=359.67
+S104 | Dee | (5, 6, 14) | 62.50% | FAIL | tags=['exceptions', 'files'] | diff=(-2.5, -2.17, -3.17) | dot=326.83
+
+REJECTED ROWS
+None

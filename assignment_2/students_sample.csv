@@ -1,0 +1,7 @@
+student_id,name,quiz1,quiz2,assignment,tags
+S101,Ana,8,9,18,python|files|sets
+S102,Bo,6,7,15,functions|exceptions
+S103,Cam,10,9,20,python|generators|zip
+S104,Dee,5,6,14,files|exceptions
+S105,Eli,9,8,17,sets|vectors|python
+S106,Fay,7,10,19,lambda|enumerate|zip
